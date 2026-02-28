@@ -1,4 +1,4 @@
-## Question 9: Count Letters and Digits in a Sentence
+## Question 12: Count Letters and Digits in a Sentence
 
 ### Problem Statement
 Write a program that accepts a sentence and calculates the number of letters 
