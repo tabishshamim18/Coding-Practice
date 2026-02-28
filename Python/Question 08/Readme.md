@@ -1,4 +1,4 @@
-## Question: Convert Input Lines to Uppercase
+## Question 8: Convert Input Lines to Uppercase
 
 ### Problem Statement
 Write a program that accepts a sequence of lines as input and prints the lines after converting all characters in each sentence to uppercase.
