@@ -1,4 +1,4 @@
-## Question 2: Numbers Divisible by 7 but Not a Multiple of 5
+## Question 1: Numbers Divisible by 7 but Not a Multiple of 5
 
 ### Problem Statement
 Write a program that finds all numbers which are divisible by 7 but are not a multiple of 5, 
