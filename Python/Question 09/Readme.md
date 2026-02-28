@@ -1,4 +1,4 @@
-## Question 6: Remove Duplicates and Sort Words
+## Question 9: Remove Duplicates and Sort Words
 
 ### Problem Statement
 Write a program that accepts a sequence of whitespace separated words as input 
