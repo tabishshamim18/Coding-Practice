@@ -1,5 +1,5 @@
 
-## Question: Formula-Based Calculation
+## Question 6: Formula-Based Calculation
 
 ### Problem Statement
 
