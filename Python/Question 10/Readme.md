@@ -1,4 +1,4 @@
-## Question 7: Binary Numbers Divisible by 5
+## Question 10: Binary Numbers Divisible by 5
 
 ### Problem Statement
 Write a program that accepts a sequence of comma-separated 4-digit binary numbers 
